@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ToDoer/static/css/main.755ff039.css",
+    "main.js": "/ToDoer/static/js/main.82ecaeea.js",
+    "static/media/bootstrap-icons.woff?": "/ToDoer/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ToDoer/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/ToDoer.png": "/ToDoer/static/media/ToDoer.b7c8a259f7fefc273508.png",
+    "static/media/error img.avif": "/ToDoer/static/media/error img.816ebce4f43699aede52.avif",
+    "index.html": "/ToDoer/index.html",
+    "main.755ff039.css.map": "/ToDoer/static/css/main.755ff039.css.map",
+    "main.82ecaeea.js.map": "/ToDoer/static/js/main.82ecaeea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755ff039.css",
+    "static/js/main.82ecaeea.js"
+  ]
+}
