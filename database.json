@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+      "id": "8c4d",
+      "courseName": "Java Fullstack",
+      "courseImg": "https://hyderabadittrainings.com/images/course/jfc.jpg",
+      "description": "Java Full Stack Developer Course in Hyderabad Hyderabad IT Trainings offers affordable Java Full Stack Development Classroom Training in Hyderabad & Java Full Stack Developer Course Online Training by Industry experts. Our Java full stack developer course Includes from basic to advanced level concepts. We have designed our Full Stack Java Developer Course content based on students requirement to achieve their goal. We are one of the leading Java Full Stack Training Institutes in Hyderabad.  Hyderabad IT Trainings Offers job oriented Java Full Stack training in Hyderabad. The trainers at Hyderabad IT Trainings are corporate professionals providing in-depth Java Fullstack Development. The Java full stack developer Course at Hyderabad IT Trainings will aim to provide our students the realtime knowledge and practical skills lined with industry standards. In this Java full stack course, we cover Core Java, Adv Java (J2EE, JDBC, SERVLET, JSP), Frameworks (Springs, Spring boot, Hibernate), Web Services, MySQL, HTML,",
+      "duration": "5",
+      "skills": "Core Java, Adv Java (J2EE, JDBC, SERVLET, JSP), Frameworks (Hibernate, Springs, Spring boot), Web Services, MySQL, HTML, CSS, Bootstrap, Javascript, JQuery with projects."
+    },
+    {
+      "id": "bf33",
+      "courseName": "Python Fullstack",
+      "courseImg": "https://hyderabadittrainings.com/images/course/python%20(1).jpg",
+      "description": "Python Full stack Developer Course in Hyderabad with Realtime Projects Hyderabad IT Trainings offers affordable Python full stack development classroom training in Hyderabad Madhapur & Python full stack developer course online training by Industry experts. Our Python full stack course Includes from basic to advanced level concepts. We have designed our Python full stack developer course content based on students' requirements to achieve their goal. We are one of the leading Python full stack training Institutes in Hyderabad Madhapur.  Hyderabad IT Trainings Offers job oriented Python Full stack Developer Course training in Hyderabad. The trainers at Hyderabad IT Trainings are corporate professionals providing in-depth Python Full Stack Development. The Python Full Stack Course at Hyderabad IT Trainings will aim to provide our students with realtime knowledge and practical skills lined with industry standards. In this Python full stack development course, we cover Python, DJango framework, MySQL, Rest API, React JS, HTML, CSS, Bootstrap, Javascript, JQuery, Github, Jupyter Notebook with live projects.",
+      "duration": "5",
+      "skills": "Core python & Adv python, DJango framework, MySQL, Github, Jupyter, HTML, CSS, Bootstrap, Javascript, JQuery along with source editors."
+    }
+  ],
+  "batches": [
+    {
+      "id": "0677",
+      "course": "PHP with MySQL",
+      "date": "2024-03-21",
+      "timings": "10:00AM - 11:00 AM",
+      "duration": "3",
+      "trainer": "Mr. Bhargav"
+    },
+    {
+      "id": "98d8",
+      "course": "Java Full Stack Development",
+      "date": "2024-03-19",
+      "timings": "04:00 PM - 05:00 PM",
+      "duration": "5",
+      "trainer": "Ms. Sindhuja"
+    }
+  ],
+  "registration": [
+    {
+      "id": "46b5",
+      "course": "React JS",
+      "training": "Online Training",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "subject": "React JS",
+      "phone": "08119950478",
+      "message": "Interested"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "32c4",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "subject": "mern fullstack",
+      "phone": "08119950478",
+      "message": ""
+    },
+    {
+      "id": "295a",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "subject": "mern fullstack",
+      "phone": "08119950478",
+      "message": "Interested"
+    }
+  ],
+  "demo": [
+    {
+      "id": "2bfa",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "phone": "08119950478",
+      "course": "classroom",
+      "message": ""
+    },
+    {
+      "id": "6a5d",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "phone": "08119950478",
+      "course": "",
+      "message": "Interested"
+    },
+    {
+      "id": "e196",
+      "name": "Abu Tsopoe",
+      "email": "tsopoeabu@gmail.com",
+      "phone": "08119950478",
+      "course": "MERN Fullstack",
+      "message": "Intersted"
+    }
+  ],
+  "news": [
+    {
+      "id": "758e",
+      "newsContent": "Start Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut reprehenderit magnam doloremque ipsum expedita perspiciatis quod laboriosam deleniti veniam quidem. Maxime, fugit deserunt est alias ab dolorum dicta dolor distinctio? End"
+    },
+    {
+      "id": "81d4",
+      "newsContent": "mock test on 24th march"
+    }
+  ],
+  "folders": [
+    {
+      "id": "5fa4",
+      "folderName": "Folder 1",
+      "date": "2024-04-13"
+    },
+    {
+      "id": "8e6b",
+      "folderName": "Folder 2",
+      "date": "2024-04-13"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "44a6",
+      "taskName": "Task 1",
+      "time": "05:00",
+      "completed": true
+    },
+    {
+      "id": "88f9",
+      "taskName": "Task 2",
+      "time": "06:00"
+    },
+    {
+      "id": "54e9",
+      "taskName": "Task 3",
+      "time": "07:00"
+    },
+    {
+      "id": "92f9",
+      "taskName": "Task 4",
+      "time": "08:00"
+    },
+    {
+      "id": "1fc1",
+      "taskName": "Task 5",
+      "time": "09:00"
+    }
+  ]
+}
