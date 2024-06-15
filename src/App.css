@@ -24,7 +24,9 @@
 .app {
   transition: color 0.3s;
 }
-
+.footer{
+  margin-bottom: 0;
+}
 /* Light Mode */
 .app.light {
   background-color:rgb(151, 216, 242);
