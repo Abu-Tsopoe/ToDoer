@@ -24,7 +24,7 @@
 .app {
   transition: color 0.3s;
 }
-.footer{
+.footer p{
   margin-bottom: 0;
 }
 /* Light Mode */
